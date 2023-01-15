@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login With Firebase</string>
+    <string name="login">LOGIN</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="insira_o_seu_e_mail">Insira o seu e-mail:</string>
+    <string name="insira_o_seu_e_senha">Insira a sua senha:</string>
+    <string name="senha">Senha:</string>
+    <string name="realizar_login">Realizar login</string>
+    <string name="logout">Logout</string>
+</resources>
